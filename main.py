@@ -51,7 +51,7 @@ def printTriangle(size):
         # When you finish counting on i,
 
     # your answer is starCount.
-    return "Here is the result:"+'<br/>'+s 
+    return "Here is the result for the given input:"+'<br/>'+s 
 
 
 @app.errorhandler(500)
